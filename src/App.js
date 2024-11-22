@@ -1,5 +1,3 @@
-// import logo from './logo.svg';
-// import './App.css';
 import Testimonial from "./components/Testimonial";
 import reviews from "./data";
 
